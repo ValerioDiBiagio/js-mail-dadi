@@ -1,8 +1,5 @@
 //Generare un numero random tra l'1 e il 6 sia per il giocatore che per il computer
 
-const minNumber = 1
-const maxNumber = 6
-
 const pcNumbers = Math.floor((Math.random() * 6) + 1);
 console.log(pcNumbers);
 
