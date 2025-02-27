@@ -10,6 +10,6 @@ Non è consentito usare nessun metodo proprio degli array (come includes, per es
 - Chiedere all'utente la sua email
 - Controllare se l'email è presente nella lista
    - SE l'email è presente 
-      - Stampare "presente" sull'esito del controllo
+      - Stampare "Invitato" sull'esito del controllo
    - ALTRIMENTI 
-      - Non stampare
+      - Stampare "Non invitato"
