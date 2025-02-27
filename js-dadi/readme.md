@@ -11,3 +11,5 @@ Stabilire il vincitore, in base a chi fa il punteggio più alto.
       - Vince il giocatore
   - ALTRIMENTI SE esce il numero più alto al computer
       - Vince il computer
+  - ALTRIMENTI SE esce lo stesso numero
+      - Hanno pareggiato
